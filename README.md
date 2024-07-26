@@ -49,15 +49,14 @@
 
 <br>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/SteveHongDev?ext=activity)](https://leetcode.com/SteveHongDev)
+<div align="center">
+  <img class="img" src="https://leetcard.jacoblin.cool/SteveHongDev?ext=activity" />
+</div>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:fairer-vapor-0w@icloud.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/Mail-3693f3?style=for-the-badge&logo=icloud&logoColor=white"/>&nbsp
   </a>
 </div>
