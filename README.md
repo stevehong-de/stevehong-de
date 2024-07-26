@@ -49,6 +49,7 @@
 
 <br>
 
+<!--
 <div align="center">
   <h3 align="center"> LeetCode </h3>
   <img class="img" src="https://leetcard.jacoblin.cool/SteveHongDev?ext=activity" />
@@ -57,7 +58,7 @@
   
   <h3 align="center"> 프로그래머스 </h3>
   <img class="img" src="https://raw.githubusercontent.com/stevehong-de/github-programmers-rank/master/lib/result.svg" />
-</div>
+</div> -->
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
