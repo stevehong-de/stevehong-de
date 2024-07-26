@@ -49,7 +49,7 @@
 
 <br>
 
-<h3 align="center"> [![Leetcode Stats](https://leetcard.jacoblin.cool/SteveHongDev?ext=activity)](https://leetcode.com/SteveHongDev) </h3>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/SteveHongDev?ext=activity)](https://leetcode.com/SteveHongDev)
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
