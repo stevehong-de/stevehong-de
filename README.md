@@ -1,11 +1,11 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/apachespark-e25a1c.svg?style=for-the-badge&logo=react&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/apachekafka-231f20.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/apacheairflow-017cee.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/snowflake-29b5e8.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/docker-2496ed.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/apachespark-e25a1c.svg?style=for-the-badge&logo=apachespark&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/apachekafka-231f20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/apacheairflow-017cee.svg?style=for-the-badge&logo=apacheairflow&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/snowflake-29b5e8.svg?style=for-the-badge&logo=snowflake&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/docker-2496ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
