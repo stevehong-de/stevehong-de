@@ -9,11 +9,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dbt-ff694b?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/elasticsearch-005571.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/databricks-ff3621.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/streamlit-ff4b4b.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/dbt-ff694b?style=for-the-badge&logo=dbt&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/databricks-ff3621.svg?style=for-the-badge&logo=databricks&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/streamlit-ff4b4b.svg?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -44,7 +44,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp
 </div>
 
 <br>
