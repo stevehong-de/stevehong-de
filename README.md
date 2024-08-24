@@ -74,8 +74,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/visualstudiocode-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=F37726" />&nbsp
 </div>
 
 <br>
