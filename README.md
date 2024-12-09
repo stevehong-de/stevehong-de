@@ -57,10 +57,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-ff9900.svg?style=for-the-badge&logo=amazon&logoColor=white" />&nbsp
 </div>
+
+<!--
 <h4 align="center">CI / CD</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/githubactions-2088ff.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
 </div>
+-->
 
 <br>
 <br>
